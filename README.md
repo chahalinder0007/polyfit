@@ -7,3 +7,8 @@ It is a general purpose algorithm to try different degrees of polynomial without
 for more information on the functioning of polyfit consider reading the  [Official documentation](https://docs.scipy.org/doc/numpy/reference/generated/numpy.polyfit.html "Google's Homepage")
 
 
+You can expect something like :
+
+![Alt text](dabba.png?raw=true "Polyfit example")
+
+
